@@ -35,10 +35,15 @@ y nos va a imprimir en pantalla lo siguiente
 En el  programa por cada tarea  se impleemntó una función  para que realice lo necesario para llegar a la solución que se desea
 
 leer_archivo_csv() - Solo se preocupa por leer el archivo
+
 validar_monto() - Solo valida que un monto sea correcto
+
 clasificar_transaccion() - Solo identifica el tipo de transacción
+
 calcular_estadisticas() - Solo calcula los números
+
 generar_reporte() - Solo muestra los resultados
+
 guardar_reporte() - Solo guarda los datos en un archivo
 
 El flujo de Datos es unidireccional 
